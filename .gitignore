@@ -1,0 +1,12 @@
+.idea/
+Pipfile
+build/
+dist/
+*.egg-info/**
+*.egg-info*
+*.out
+*~
+data/
+*#*
+*/__pycache__/*
+*pycache*
